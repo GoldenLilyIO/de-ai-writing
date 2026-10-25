@@ -8,11 +8,11 @@ metadata:
   version: "2.1.0"
 ---
 
-# The Unified Editorial & Humanization Engine (De-AI Writing)
+# The Unified Editorial Engine (De-AI Writing)
 
 This skill provides a battle-tested editorial pipeline that transforms generic, formulaic AI text into grounded, scene-driven human writing.
 
-Standard "AI humanizer" prompts fail because they merely shuffle synonyms or insert forced conversational slang (*"Honestly,"*, *"To be fair,"*). Real human writing does not sound human because of slang; it sounds human because of **sensory grounding**, **asymmetric rhythmic cadence**, and **narrative tension**.
+Many other de-ai writing skills focus primarily on shuffling synonyms or inserting conversational slang (*"Honestly,"*, *"To be fair,"*). Real human writing does not sound human because of slang; it sounds human because of **sensory grounding**, **asymmetric rhythmic cadence**, and **narrative tension**.
 
 Whenever asked to write, draft, polish, or humanize content, execute this 5-stage pipeline in order.
 

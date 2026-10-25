@@ -8,19 +8,19 @@
 
 ---
 
-## Why Traditional "AI Humanizers" Fail
+## How This Differs From Other De-AI Writing Skills
 
-Most AI humanizers on GitHub and the web operate on flawed premises:
-* They randomly swap synonyms to trick token-probability detectors.
-* They inject forced conversational filler (*"Honestly,"*, *"To be fair,"*, *"Let's be real"*).
-* They introduce artificial grammatical errors or awkward typos.
+Many other de-ai writing skills and prompts take a surface-level approach:
+* They swap synonyms to shift token probability.
+* They inject conversational filler (*"Honestly,"*, *"To be fair,"*, *"Let's be real"*).
+* They soften tone without addressing underlying rhythm or structure.
 
-**Real human writing does not sound human because of slang or typos.** It sounds human because of:
+**Human writing does not sound authentic because of casual filler.** It sounds authentic because of:
 1. **Sensory Grounding**: Real tools, specific geography, physical friction, and concrete nouns.
 2. **Asymmetric Rhythm**: A musical mix of staccato punch verdicts (2 to 6 words) and longer explanatory sentences.
 3. **Narrative Tension**: Starting in the middle of the action (*in media res*), avoiding throat-clearing intros, and ending on a decisive floor verdict instead of a robotic summary.
 
-`de-ai-writing` replaces synonym-swapping with an architectural editorial framework and an automated diagnostic verification script.
+`de-ai-writing` focuses on architectural editorial discipline, cadence modulation, and automated diagnostic verification.
 
 ---
 
